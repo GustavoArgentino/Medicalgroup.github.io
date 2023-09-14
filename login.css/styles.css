@@ -5,16 +5,17 @@
 .entrar{
     color: #00a6fb;
 }
+
 .paciente{
     color: white;
     border-radius: 25px;
     font-style: monospace
 }
+
 .button{
     color: white;
     border-radius: 50%;
-
-    }
+ }
 
 
 .paciente{ 
@@ -29,14 +30,15 @@
      text-align: center;  
      font-style: monospace
 }
+
 .administrador{
     color: white;
     border-radius: 10px;
     font-style: monospace
     ;
-  
-}
-.linha {
+  }
+
+  .linha {
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -44,22 +46,20 @@
     margin-right: 2500px;
     width: 1050px;
     color: blue;
-
   }
 
   #img-1{
-
-    border-radius: 50px;
+  border-radius: 50px;
   }
 
-  footer{
-    
+  footer{ 
     background-color: #00a6fb;
     color: white;
     margin-top: 80px;
     padding: 13x;
     width: 1450px;
   }
+ 
   *{
     overflow: hidden;
     font-family: Helvetica;
